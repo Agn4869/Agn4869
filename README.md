@@ -4,9 +4,7 @@
 
 <p align="center"><code>robots · simulation · physical ai</code></p>
 
-<table border="0" width="100%">
-<tr>
-<td valign="top" width="48%">
+<img align="right" width="400" src="assets/profile-character-pair.jpg" alt="illustration">
 
 <h3>/ about me /</h3>
 
@@ -41,10 +39,3 @@
 ![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![MuJoCo](https://img.shields.io/badge/MuJoCo-4B5563?style=flat-square)
-
-</td>
-<td valign="top" width="52%" align="center">
-  <img src="assets/profile-character-pair.jpg" alt="illustration" width="400">
-</td>
-</tr>
-</table>
