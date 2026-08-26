@@ -6,14 +6,14 @@
 
 <img align="right" width="400" src="assets/profile-character-pair.jpg" alt="illustration">
 
-<h3>/ about me /</h3>
+<h3><big>/ about me /</big></h3>
 
 - 💀 mostly working on **private repositories**
 - ⚙️ using **C++ / Python / Go**
 - 👾 a **student** exploring new ideas
 - ⭐ currently working on **robots and unmanned vessels**
 
-<h3>/ current skills /</h3>
+<h3><big>/ current skills /</big></h3>
 
 #### languages
 
