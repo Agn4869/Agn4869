@@ -7,6 +7,7 @@
 <img align="right" width="400" src="assets/profile-character-pair.jpg" alt="illustration">
 
 <h3><big>/ about me /</big></h3>
+<hr align="left" width="45%">
 
 - 💀 mostly working on **private repositories**
 - ⚙️ using **C++ / Python / Go**
@@ -14,6 +15,7 @@
 - ⭐ currently working on **robots and unmanned vessels**
 
 <h3><big>/ current skills /</big></h3>
+<hr align="left" width="45%">
 
 #### languages
 
