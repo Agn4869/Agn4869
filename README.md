@@ -2,7 +2,7 @@
   <img src="assets/agn-logo-cropped.png" alt="Agn" width="430">
 </p>
 
-<p align="center"><code>robots · physical ai</code></p>
+<p align="center"><code>robots · simulation · physical ai</code></p>
 
 <table border="0" width="100%">
 <tr>
