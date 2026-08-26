@@ -4,16 +4,18 @@
 
 <p align="center"><code>robots · physical ai</code></p>
 
-<img align="right" width="400" src="assets/profile-character-pair.jpg" alt="illustration">
+<table border="0" width="100%">
+<tr>
+<td valign="top" width="48%">
 
-## / about me /
+<h3>/ about me /</h3>
 
 - 💀 mostly working on **private repositories**
 - ⚙️ using **C++ / Python / Go**
 - 👾 a **student** exploring new ideas
 - ⭐ currently working on **robots and unmanned vessels**
 
-## / current skills /
+<h3>/ current skills /</h3>
 
 #### languages
 
@@ -40,6 +42,9 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![MuJoCo](https://img.shields.io/badge/MuJoCo-4B5563?style=flat-square)
 
-<br clear="all">
-
-<p align="center"><sub>building quietly, learning continuously.</sub></p>
+</td>
+<td valign="top" width="52%" align="center">
+  <img src="assets/profile-character-pair.jpg" alt="illustration" width="400">
+</td>
+</tr>
+</table>
