@@ -10,7 +10,7 @@
 <hr align="left" width="45%">
 
 - 💀 mostly working on **private repositories**
-- ⚙️ using **C++ / Python / Go**
+- ⚙️ using **C++ / Python **
 - 👾 a **student** exploring new ideas
 - ⭐ currently working on **robots and unmanned vessels**
 
